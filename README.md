@@ -3,6 +3,9 @@ NewsPrk is a modern Template tailored for News and Magazine sites, covering dive
 
 NewsPrk presents an alluring and contemporary Template designed for News and Magazine websites, employing advanced Template technology. With a versatile scope that encompasses categories such as Blogs, Sports, Fashion, Science, Politics, Videos, Travel, Style, Beauty, and Health Magazine sites, the NewsPrk HTML Template offers comprehensive options and sections tailored for News and Magazine endeavors. Its adaptability, responsiveness, and performance optimization make it an ideal platform to cultivate a functional newspaper or magazine site. Seamlessly facilitating the presentation of curated content, NewsPrk enhances user experience, making it effortless to craft personal blogs or magazine articles. Explore its meticulously designed homepages, each a testament to its exquisite craftsmanship, and select the most fitting one, or even fashion your own, encapsulating the essence of NewsPrk - an unparalleled news and magazine template primed for the purpose of sharing captivating narratives.
 
+![image](https://github.com/thehsansaeed/Free-Newsprk-News-Magazine-Template/assets/82998682/dc3a371d-d2fb-44fe-bef6-54974d7fe708)
+
+
 # Key Features:
 
 Fully Responsive Bootstrap 4x Framework
